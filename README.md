@@ -53,9 +53,9 @@ Table 2. Features importance as classified by random forest algorithm
 Table 2 shows the features importance as classified by random forest algorithm. As expected, item MRP was recognized as the most influential.
 
 # Conclusions
--It is essential to prioritize the sales of snacks, households, and fruits & vegetables to increase the outlet sales. 
--Medium size, tier 3, and type 1 supermarkets are essential to raising the outlet sales. 
--Item MRP is proportional to outlet sales. 
+### It is essential to prioritize the sales of snacks, households, and fruits & vegetables to increase the outlet sales. 
+### Medium size, tier 3, and type 1 supermarkets are essential to raising the outlet sales. 
+### Item MRP is proportional to outlet sales. 
 
 
 
