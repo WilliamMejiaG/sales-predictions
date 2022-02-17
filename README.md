@@ -12,7 +12,7 @@ The median of the outlet sales by product is around of 2000 USD.
 ![image](https://user-images.githubusercontent.com/96077675/154581614-98200a97-aa8d-4074-a04a-38398e712d64.png)
 
 ## Figure 2: Item outlet sales by item type and fat content
-Households, snacks, and fruits & vegetables are the more sold items. It is important to note that low fat content products are preferred by customers.
+Households, snacks, and fruits & vegetables are the more sold items. It is important to note that customers prefer low-fat content products.
 
 ![image](https://user-images.githubusercontent.com/96077675/154581936-f885c13f-8197-4581-b5f9-1201840d103f.png)
 
