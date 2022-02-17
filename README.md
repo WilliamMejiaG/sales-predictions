@@ -30,3 +30,9 @@ B. Applying machine learning algorithms to identify the most important variables
 ## Figure 5: Correlation matrix
 The correlation matrix reveals that there are no correlation among variables, with the exception of Item MRP on item outlet sales. 
 
+After the database preprocessing, data were fitted to Linear Regression, k-NN regression, and Random Forest Regression models to discover the influence of several essential variables on the outlet sales. To compare the models successfully, cross-validation (with cv=10) was applied. The following table shows the results obtained: 
+
+## Table 1: Scores meand and standar deviation for ML models
+![image](https://user-images.githubusercontent.com/96077675/154583741-ed2e2d72-1a6b-40d3-a5d0-540135b5901e.png)
+
+
