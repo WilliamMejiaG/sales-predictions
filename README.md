@@ -3,7 +3,7 @@ This project aimed to understand the influence of the type of products and outle
 a. Describing the influence of different variables on the outlet sales graphically.
 b. Applying machine learning algorithms to identify the most important variables affecting the outlet sales. 
 # Summary of important results
-A. Graphical description of the influence of important variables on outlet sales
+# A. Graphical description of the influence of important variables on outlet sales
 ![image](https://user-images.githubusercontent.com/96077675/154581416-ab0174a9-0e86-4327-bdc7-cd6c95121887.png)
 
 ## Figure 1. Outlet sales by item type
@@ -24,7 +24,7 @@ Medium size and tier 3 outlets gather the most of the outlet sales.
 ## Figure 4: Item outlet sales by outlet size and type
 Medium size and supermarket type 1 outlets gather the most of the outlet sales.
 
-B. Applying machine learning algorithms to identify the most important variables affecting the outlet sales. 
+# B. Applying machine learning algorithms to identify the most important variables affecting the outlet sales. 
 ![image](https://user-images.githubusercontent.com/96077675/154582593-f216109f-9a61-48c6-bee4-b2a496ff16db.png)
 
 ## Figure 5: Correlation matrix
